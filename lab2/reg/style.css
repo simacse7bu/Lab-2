@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.container{
+    max-width: 990px;
+    margin: 0 auto;
+}
+.apply-box{
+    max-width: 400px;
+    padding: 20px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 3px 5px rgb(1,1,1,1);
+    border-radius: 10px;
+    min-height: 60vh;
+}
+.area{
+    margin-bottom: 20px;
+    background-color: rgb(154, 118, 187);
+    padding: 20px;
+}
+.area p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+ #user{
+    
+    padding: 10px;
+    width: 60%;
+    margin-bottom: 10px;
+    background-color: rgb(169, 163, 163);
+    outline: 2px solid black;
+}
+
+ button{
+    margin-top: 30px;
+    padding: 10px;
+    width: 90px;
+    background-color: rgb(17, 17, 59);
+    border-radius: 6px;
+    color: white;
+    margin-left: 30%;  
+    
+}
